@@ -1,9 +1,4 @@
-Sure! Here's a sample `README.md` file for your **Product & Order Backend API** project using **Node.js, Express, and MongoDB**. You can customize it as needed:
-
----
-
-```markdown
-# 🛒 Product & Order Management API
+🛒 Product & Order Management API
 
 This is a RESTful backend API built with **Node.js**, **Express**, and **MongoDB** using **Mongoose**. It handles CRUD operations for products and orders, designed to support an e-commerce or inventory system.
 
@@ -123,6 +118,3 @@ Feel free to open issues or PRs. Feedback is always welcome!
 MIT License © Ritika
 ```
 
----
-
-Let me know if you'd like me to fill in any parts automatically (like your GitHub username or project name) or add Docker support, deployment instructions, or Postman collection links.
